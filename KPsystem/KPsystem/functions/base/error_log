@@ -1,0 +1,9 @@
+[30-Sep-2023 18:19:41 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to undefined function confirm() in /home/thedomik2/arketek.co.za/KPsystem/functions/base/register.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/thedomik2/arketek.co.za/KPsystem/functions/base/register.php on line 31
+[30-Sep-2023 18:21:36 Africa/Johannesburg] PHP Warning:  Use of undefined constant location - assumed 'location' (this will throw an Error in a future version of PHP) in /home/thedomik2/arketek.co.za/KPsystem/functions/base/register.php on line 36
+[30-Sep-2023 18:21:36 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to undefined function replace() in /home/thedomik2/arketek.co.za/KPsystem/functions/base/register.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/thedomik2/arketek.co.za/KPsystem/functions/base/register.php on line 36
